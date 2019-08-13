@@ -45,6 +45,13 @@
     color: white;
   }
   
+  #Chicken {
+    background-color: #D3A0B6
+  }
+
+  #Sushi {
+    background-color: #EAFA21
+  }
   
   /********** Desktop version **********/
   @media (min-width: 992px) {
