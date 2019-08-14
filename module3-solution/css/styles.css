@@ -37,7 +37,15 @@ body {
 
 .section {
     border: 1px solid black;
+<<<<<<< HEAD
     background-color: rgb(219, 217, 217);
+=======
+<<<<<<< HEAD
+    background-color: rgb(249, 245, 245);;
+=======
+    background-color: rgb(219, 217, 217);
+>>>>>>> ed4abb3be858637b24e53bc1990f6ba2d6731c56
+>>>>>>> c61cfd61345db099c6d27dee0a740891128476aa
     color: black;
     font-size: 90%;
     font-weight: normal;
