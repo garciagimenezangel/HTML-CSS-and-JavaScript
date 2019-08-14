@@ -1,0 +1,1 @@
+browser-sync start --server --directory C:\Users\Angel\Documents\Angel\Coursera\HTML_CSS_Javascript\webCourseraExercises\module4-solution --files "**/*"
